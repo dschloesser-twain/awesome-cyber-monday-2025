@@ -36,6 +36,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | [Get Deal](https://www.react-pdf.dev/pricing?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Nov 17 - Dec 1 |
 | [RunJS](https://runjs.app) | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 | 
 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API | Use code BLACKFRIDAY2025 for 50% OFF | [Get Deal](https://scrapecreators.com/) | Nov 28 only |
+| [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed | [Get Deal](https://tryhoverify.com/#pricing) | Nov 24 - Dec 4 |
 
 ## 🎨 Design Software
 
@@ -48,6 +49,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |[MGC Animation](https://www.mingcute.com/animation?utm_source=punk) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | [Get Deal](https://store.mingcute.com/?utm_source=punk) | Nov 15 - Dec 5 |
 |[MGC Weather](https://mgcweather.framer.website/?utm_source=punk) | 120 graceful weather icons | 30% OFF with code **BF2025** | [Get Deal](https://store.mingcute.com/?utm_source=punk) | Nov 15 - Dec 5 |
 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors design workflow. | 30% OFF - NO CODE REQUIRED | [Get Deal](https://litur.app) | Nov 24th - Dec 4th |
+| [Recut](https://getrecut.com) | Edit your videos faster with automatic silence removal | $50 OFF (automatic) | [Get Deal](https://getrecut.com/?ref=awesome-cyber-monday) | Nov 3rd - Dec 1st |
 
 ## 📚 Courses & Learning
 
@@ -64,16 +66,20 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)| Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI-powered workflow automation API (e-commerce, marketing, HR & more) | **50% OFF** (use code `BF2025`) | [Get Deal](https://sharpapi.com/en/pricing) | Nov 24 – Dec 3 |  
 | [PostFlow](https://postflow.app/?ref=punk) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF** (LIFETIME) with code **BF2025** | [Get Lifetime Deal](https://postflow.app/?ref=punk) | Nov 24 – Dec 1 |  
+| [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |  
+| [Notion Backups](https://notionbackups.com) | Easily back up and restore Notion workspaces | **40% off** on annual plans vs monthly pricing | [Get Started](https://notionbackups.com) | Nov 20 – Dec 4 |
 
 ## 🔧 Productivity Tools
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
+| [Airbounce for Zoom](https://www.airbounce.co/?utm_source=gh-blackfriday2025) | Upgrade your CapsLock key for easier Zoom calls on Mac! One button to join, mute/unmute, or leave — plus integration with your HomeKit smart light to show you're #OnAir. | **40% off** with **BLACKFRIDAY** (one-time purchase) | [Get Deal](https://www.airbounce.co/?utm_source=gh-blackfriday2025) | Nov 22 - Dec 6 |
 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF - NO CODE REQUIRED | [Get Deal](https://getviso.app) | Nov 24th - Dec 4th |
 | [FileMinutes](https://www.fileminutes.com/?utm_source=awesome-cyber-monday-2025) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** | [Get Lifetime Deal](https://www.fileminutes.com/pricing/?utm_source=awesome-cyber-monday-2025) | Nov 15 - Dec 7 |
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)|  Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [DeskRest](https://deskrest.com/offers/?utm_source=awesome-cyber-monday-2025) | Smart break and posture reminder app for macOS. Transform your workday. | 60% OFF with code **BLACKFRIDAY** | [Get Lifetime Deal](https://deskrest.com/offers/?utm_source=awesome-cyber-monday-2025) | Nov 10 - Dec 3 |
 | [XGetter](https://xgetter.com/?utm_source=awesome-cyber-monday-2025) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | [Get Deals](https://xgetter.com/cn#pricing) | Nov 15 - Dec 1 |
+| [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime | [Get Deals](https://apps.apple.com/ua/app/deskminder-reminders-tasks/id6740942938?mt=12) | Nov 24 - 28 |
 
 ## 🌐 Hosting & Infrastructure
 
@@ -91,6 +97,9 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen (iOS & Android). | **50% OFF** Lifetime plan. No code needed | Available  in Paywall | Nov 24 - Dec 3 |
 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | [Get Deal](https://litur.app) | Nov 24th - Dec 4th |
 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6742157071&code=BLARKFRIDAY)<br><br>Available also on PayWall | Nov 24th - Dec 4th |
+| [Walk Mate](https://apple.co/4mz7vev) | Daily random walking routes in your location. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
+| [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
+| [Travel Route Map](https://apple.co/3NZrXqi) | Animate your travel destinations on the world map. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
 
 ## 🎮 Hardware & Gadgets
 
@@ -110,6 +119,13 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |---------|-------------|----------|-----------|-------|
 | [AskCory](https://marketing.askcory.ai/) |	Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code CM25 | [Get Deal](https://marketing.askcory.ai/billing) | Nov 28 - Dec 1 |
 | [UXWizz](https://www.uxwizz.com?ref=acm-2025) | Self-hosted Website Analytics with Session Recordings, Heatmaps, Error Tracking, AI and more. | 50% OFF - Buy Once, Use Forever | [Get Deal](https://uxwizz.com/pricing?ref=acm-2025) | Nov 23 - Dec 1 |
+| [Ring Tonic](https://ringtonic.app?ref=acm-2025) | Ring Tonic is a modern AI-Powered Call Tracking & Analytics platform that helps businesses understand which marketing efforts drive phone calls, automatically qualify leads, and extract valuable insights from every conversation—without the traditional 400-500% markup competitors charge. | 35% OFF & Lifetime Deal | [Get Deal](https://ringtonic.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
+
+## 🔎 SEO
+
+| Product | Description | Discount | Deal Link | Dates |
+|---------|-------------|----------|-----------|-------|
+| [SEO Utils](https://seoutils.app?ref=acm-2025) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | 20% OFF & Lifetime Deal | [Get Deal](https://seoutils.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
 
 ---
 
